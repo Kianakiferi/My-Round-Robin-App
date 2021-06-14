@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mL2YwNQs1IFQu6CtnRbxw32nGTP3SD3eypOFrbp6QPlgk82KoesqCdJVguSa2zRbZpZooEs8z8OgP0uWy9HKEw==",
+  "success": true,
+  "projectFilePath": "D:\\Programing\\Git\\My-Round-Robin-App\\My-Round-Robin-App\\ConsoleTestApp\\ConsoleTestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kiana\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kiana\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kiana\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kiana\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kiana\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kiana\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
