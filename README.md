@@ -16,6 +16,6 @@ Add Random(Ctrl + N), Start
 
 ## License
 
-[GNU GPLv3](https://github.com/Kianakiferi/My-Round-Robin-App/LICENSE)
+[GNU GPLv3](https://github.com/Kianakiferi/My-Round-Robin-App/blob/main/LICENSE)
 
 
